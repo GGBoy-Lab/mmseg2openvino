@@ -3,8 +3,8 @@ import numpy as np
 from openvino.inference_engine import IECore
 
 # 参数
-IMG_FPATH = "./input/27-7.jpg"
-IR_MODEL_FPATH = "./model/CAP_0522.xml"
+IMG_FPATH = "./input/XXX.jpg"
+IR_MODEL_FPATH = "./model/xXX.xml"
 DEVICE = "CPU"
 num_classes = 3  # 类别数
 
